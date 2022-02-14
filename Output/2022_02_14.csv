@@ -1,0 +1,118 @@
+Origin Time (GMT),Status,cntP,Mag,TypeMag,cntM,AZgap,RMS,Lat,Lon,Depth,Remarks
+ 2022-02-14 02:58:42 , manual , 7   , 2.3 , M       , 2   , 127 , 3.9 , 3.26 S  , 102.40 E , 10 km  ," Southern Sumatra, Indonesia       "
+ 2022-02-14 02:28:33 , manual , 9   , 2.9 , M       , 7   , 153 , 0.6 , 2.67 S  , 102.21 E , 154 km ," Southern Sumatra, Indonesia       "
+ 2022-02-13 23:59:24 , manual , 16  , 2.8 , MLv     , 5   , 90  , 1.6 , 0.73 S  , 123.23 E , 10 km  ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-13 23:13:47 , manual , 13  , 3.3 , MLv     , 6   , 161 , 0.7 , 0.82 N  , 120.56 E , 10 km  ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-13 22:32:05 , manual , 12  , 4.4 , mb      , 8   , 95  , 1.4 , 54.65 N , 157.32 W , 148 km , South of Alaska                   
+ 2022-02-13 22:09:01 , manual , 12  , 3.2 , MLv     , 3   , 173 , 0.3 , 8.06 S  , 122.45 E , 10 km  ," Flores Region, Indonesia          "
+ 2022-02-13 21:48:49 , manual , 12  , 2.8 , MLv     , 2   , 135 , 0.7 , 0.76 N  , 125.87 E , 10 km  , Northern Molucca Sea              
+ 2022-02-13 21:44:27 , manual , 20  , 2.6 , MLv     , 7   , 88  , 1.7 , 2.54 S  , 121.22 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 20:49:46 , manual , 29  , 5.3 , mb      , 22  , 155 , 1.1 , 11.83 N , 144.46 E , 49 km  , South of Mariana Islands          
+ 2022-02-13 20:31:50 , manual , 32  , 4.8 , MLv     , 13  , 114 , 1.1 , 6.90 S  , 127.06 E , 395 km , Banda Sea                         
+ 2022-02-13 20:29:49 , manual , 89  , 5.7 , mb      , 66  , 129 , 1.2 , 11.85 N , 144.42 E , 48 km  , South of Mariana Islands          
+ 2022-02-13 20:28:05 , manual , 36  , 4.0 , MLv     , 11  , 109 , 1.6 , 3.65 S  , 129.38 E , 10 km  ," Seram, Indonesia                  "
+ 2022-02-13 19:03:34 , manual , 9   , 3.2 , MLv     , 4   , 120 , 0.8 , 2.39 S  , 138.91 E , 22 km  ," Irian Jaya, Indonesia             "
+ 2022-02-13 19:02:44 , manual , 17  , 2.2 , MLv     , 7   , 81  , 1.0 , 2.51 S  , 120.90 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 18:50:13 , manual , 36  , 2.8 , MLv     , 11  , 58  , 1.5 , 1.34 S  , 120.48 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 18:26:03 , manual , 108 , 5.3 , mb      , 80  , 122 , 1.1 , 40.99 N , 44.05 E  , 67 km  , Georgia Armenia Turkey Border Reg.
+ 2022-02-13 17:16:32 , manual , 6   , 1.7 , MLv     , 3   , 171 , 1.0 , 0.51 N  , 122.11 E , 17 km  ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-13 17:14:36 , manual , 15  , 2.5 , MLv     , 4   , 225 , 0.3 , 7.65 S  , 122.65 E , 42 km  , Flores Sea                        
+ 2022-02-13 17:08:17 , manual , 12  , 2.3 , MLv     , 4   , 216 , 0.9 , 7.94 S  , 118.59 E , 44 km  , Flores Sea                        
+ 2022-02-13 16:39:08 , manual , 11  , 3.2 , MLv     , 3   , 220 , 0.8 , 7.65 S  , 122.82 E , 116 km , Flores Sea                        
+ 2022-02-13 16:34:37 , manual , 8   , 2.5 , MLv     , 3   , 131 , 0.6 , 9.05 S  , 124.02 E , 20 km  , Timor Region                      
+ 2022-02-13 16:32:28 , manual , 159 , 5.5 , mb      , 116 , 127 , 0.9 , 18.57 S , 174.88 W , 136 km , Tonga Islands                     
+ 2022-02-13 16:14:49 , manual , 37  , 4.3 , MLv     , 13  , 159 , 1.7 , 7.00 N  , 95.19 E  , 10 km  ," Nicobar Islands, India Region     "
+ 2022-02-13 15:57:37 , manual , 27  , 3.2 , MLv     , 9   , 219 , 0.4 , 6.91 S  , 105.31 E , 17 km  ," Sunda Strait, Indonesia           "
+ 2022-02-13 15:04:56 , manual , 22  , 3.4 , MLv     , 7   , 148 , 0.4 , 7.70 S  , 122.58 E , 26 km  , Flores Sea                        
+ 2022-02-13 14:48:07 , manual , 96  , 5.3 , mb      , 72  , 170 , 1.7 , 21.04 S , 173.24 E , 28 km  , Vanuatu Islands Region            
+ 2022-02-13 13:17:01 , manual , 21  , 2.3 , MLv     , 6   , 223 , 0.7 , 9.20 S  , 117.34 E , 64 km  ," Sumbawa Region, Indonesia         "
+ 2022-02-13 13:13:51 , manual , 20  , 2.8 , MLv     , 7   , 105 , 0.6 , 8.20 S  , 119.83 E , 10 km  ," Flores Region, Indonesia          "
+ 2022-02-13 12:55:28 , manual , 23  , 2.8 , MLv     , 8   , 102 , 0.4 , 8.21 S  , 119.75 E , 165 km ," Flores Region, Indonesia          "
+ 2022-02-13 12:51:01 , manual , 38  , 3.0 , MLv     , 12  , 51  , 1.7 , 2.47 S  , 120.94 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 10:35:41 , manual , 21  , 3.0 , MLv     , 6   , 132 , 0.7 , 0.69 N  , 126.16 E , 10 km  , Northern Molucca Sea              
+ 2022-02-13 10:12:19 , manual , 86  , 4.7 , Mw      , 93  , 141 , 1.5 , 5.95 N  , 125.70 E , 74 km  ," Mindanao, Philippines             "
+ 2022-02-13 08:21:48 , manual , 391 , 5.7 , Mw      , 40  , 50  , 1.3 , 0.92 N  , 126.23 E , 65 km  , Northern Molucca Sea              
+ 2022-02-13 07:59:31 , manual , 120 , 4.5 , MLv     , 29  , 51  , 1.3 , 8.10 S  , 122.38 E , 23 km  ," Flores Region, Indonesia          "
+ 2022-02-13 07:52:05 , manual , 29  , 2.7 , MLv     , 6   , 65  , 1.0 , 2.58 S  , 121.20 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 07:14:14 , manual , 93  , 3.9 , MLv     , 25  , 212 , 1.0 , 7.58 S  , 106.72 E , 32 km  ," Java, Indonesia                   "
+ 2022-02-13 06:54:12 , manual , 53  , 5.6 , mb      , 31  , 105 , 1.4 , 56.17 S , 27.94 W  , 114 km , South Sandwich Islands Region     
+ 2022-02-13 06:51:15 , manual , 36  , 4.5 , mb      , 25  , 122 , 2.1 , 44.52 N , 142.05 E , 420 km ," Hokkaido, Japan Region            "
+ 2022-02-13 06:50:51 , manual , 6   , 3.3 , MLv     , 2   , 213 , 0.2 , 2.82 N  , 117.33 E , 10 km  , Borneo                            
+ 2022-02-13 06:09:06 , manual , 57  , 4.5 , MLv     , 17  , 101 , 1.5 , 2.71 N  , 126.38 E , 10 km  , Northern Molucca Sea              
+ 2022-02-13 05:55:04 , manual , 37  , 3.0 , MLv     , 9   , 151 , 0.6 , 9.38 S  , 119.09 E , 61 km  ," Sumba Region, Indonesia           "
+ 2022-02-13 05:36:40 , manual , 30  , 2.8 , MLv     , 8   , 135 , 1.0 , 7.81 S  , 118.68 E , 28 km  , Flores Sea                        
+ 2022-02-13 04:36:19 , manual , 64  , 5.2 , Mw(Mwp) , 20  , 118 , 1.5 , 19.17 N , 121.23 E , 48 km  , Philippine Islands Region         
+ 2022-02-13 04:27:01 , manual , 23  , 2.7 , MLv     , 7   , 152 , 0.8 , 7.21 S  , 121.18 E , 17 km  , Flores Sea                        
+ 2022-02-13 03:52:09 , manual , 16  , 3.3 , MLv     , 4   , 109 , 1.1 , 2.57 S  , 137.38 E , 71 km  ," Irian Jaya, Indonesia             "
+ 2022-02-13 03:44:10 , manual , 91  , 4.9 , mb      , 23  , 96  , 1.2 , 3.16 N  , 126.14 E , 48 km  ," Talaud Islands, Indonesia         "
+ 2022-02-13 03:12:09 , manual , 14  , 2.2 , MLv     , 5   , 137 , 1.2 , 2.36 S  , 120.84 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-13 02:15:24 , manual , 159 , 5.2 , mb      , 103 , 90  , 0.9 , 25.11 S , 178.90 W , 396 km , South of Fiji Islands             
+ 2022-02-13 01:35:11 , manual , 11  , 2.9 , MLv     , 2   , 226 , 0.5 , 8.14 S  , 122.48 E , 33 km  ," Flores Region, Indonesia          "
+ 2022-02-13 01:33:11 , manual , 20  , 3.1 , MLv     , 5   , 83  , 0.5 , 8.07 S  , 122.41 E , 11 km  ," Flores Region, Indonesia          "
+ 2022-02-13 01:22:33 , manual , 47  , 3.9 , MLv     , 18  , 62  , 0.5 , 8.47 S  , 121.39 E , 179 km ," Flores Region, Indonesia          "
+ 2022-02-13 00:59:29 , manual , 23  , 3.8 , MLv     , 9   , 164 , 0.6 , 1.55 N  , 128.88 E , 10 km  ," Halmahera, Indonesia              "
+ 2022-02-13 00:48:19 , manual , 25  , 3.3 , MLv     , 12  , 127 , 0.5 , 8.48 S  , 116.03 E , 17 km  ," Sumbawa Region, Indonesia         "
+ 2022-02-13 00:24:49 , manual , 36  , 3.5 , MLv     , 14  , 136 , 0.4 , 8.42 S  , 116.00 E , 13 km  ," Sumbawa Region, Indonesia         "
+ 2022-02-13 00:03:57 , manual , 28  , 4.0 , MLv     , 10  , 156 , 0.4 , 1.54 N  , 128.83 E , 10 km  ," Halmahera, Indonesia              "
+ 2022-02-13 00:03:00 , manual , 23  , 4.6 , mb      , 12  , 154 , 1.7 , 8.87 N  , 136.64 E , 287 km ," W. Caroline Islands, Micronesia   "
+ 2022-02-12 23:57:37 , manual , 26  , 3.3 , MLv     , 9   , 105 , 1.7 , 2.42 S  , 121.68 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-12 22:49:47 , manual , 132 , 5.2 , mb      , 79  , 55  , 1.0 , 5.71 S  , 154.41 E , 118 km , Solomon Islands                   
+ 2022-02-12 22:12:08 , manual , 23  , 3.0 , MLv     , 8   , 58  , 0.8 , 0.32 N  , 121.94 E , 168 km ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-12 21:47:00 , manual , 50  , 3.7 , MLv     , 21  , 32  , 1.6 , 1.35 S  , 120.50 E , 10 km  ," Sulawesi, Indonesia               "
+ 2022-02-12 21:01:43 , manual , 45  , 3.6 , MLv     , 19  , 111 , 0.5 , 8.61 S  , 118.38 E , 112 km ," Sumbawa Region, Indonesia         "
+ 2022-02-12 20:48:58 , manual , 42  , 5.1 , mb      , 14  , 83  , 1.0 , 0.54 S  , 20.06 W  , 43 km  , Central Mid Atlantic Ridge        
+ 2022-02-12 17:13:51 , manual , 31  , 4.5 , mb      , 21  , 161 , 1.0 , 29.84 S , 177.96 W , 203 km ," Kermadec Islands, New Zealand     "
+ 2022-02-12 17:07:36 , manual , 38  , 3.1 , MLv     , 13  , 61  , 0.8 , 7.09 S  , 120.73 E , 11 km  , Flores Sea                        
+ 2022-02-12 17:03:35 , manual , 27  , 2.7 , MLv     , 7   , 58  , 0.5 , 8.97 S  , 124.12 E , 61 km  , Timor Region                      
+ 2022-02-12 15:13:13 , manual , 50  , 4.1 , MLv     , 25  , 205 , 0.4 , 0.81 N  , 97.22 E  , 23 km  ," Northern Sumatra, Indonesia       "
+ 2022-02-12 13:52:24 , manual , 39  , 3.5 , MLv     , 19  , 62  , 0.4 , 0.90 N  , 100.12 E , 192 km ," Northern Sumatra, Indonesia       "
+ 2022-02-12 11:38:18 , manual , 16  , 3.4 , MLv     , 6   , 274 , 0.6 , 5.15 N  , 94.67 E  , 13 km  ," Northern Sumatra, Indonesia       "
+ 2022-02-12 11:36:54 , manual , 24  , 3.7 , MLv     , 10  , 221 , 0.9 , 9.28 S  , 112.97 E , 10 km  ," South of Java, Indonesia          "
+ 2022-02-12 10:09:35 , manual , 24  , 3.4 , MLv     , 8   , 77  , 0.8 , 7.61 S  , 122.34 E , 27 km  , Flores Sea                        
+ 2022-02-12 10:05:54 , manual , 8   , 2.5 , MLv     , 4   , 185 , 0.5 , 2.90 S  , 130.07 E , 29 km  ," Seram, Indonesia                  "
+ 2022-02-12 09:17:26 , manual , 36  , 4.1 , MLv     , 18  , 233 , 0.5 , 0.02 S  , 96.42 E  , 14 km  ," Southwest of Sumatra, Indonesia   "
+ 2022-02-12 08:25:10 , manual , 29  , 4.4 , MLv     , 10  , 156 , 0.9 , 3.81 N  , 127.08 E , 55 km  ," Talaud Islands, Indonesia         "
+ 2022-02-12 06:36:36 , manual , 40  , 5.2 , mb      , 11  , 126 , 0.8 , 3.60 S  , 143.43 E , 72 km  ," Near N. Coast of New Guinea, PNG. "
+ 2022-02-12 05:06:17 , manual , 23  , 3.3 , MLv     , 11  , 154 , 0.6 , 9.06 S  , 118.36 E , 68 km  ," Sumbawa Region, Indonesia         "
+ 2022-02-12 04:59:29 , manual , 12  , 2.7 , MLv     , 7   , 169 , 0.8 , 8.90 S  , 116.94 E , 10 km  ," Sumbawa Region, Indonesia         "
+ 2022-02-12 04:33:02 , manual , 43  , 5.0 , mb      , 22  , 116 , 0.8 , 9.93 S  , 160.20 E , 26 km  , Solomon Islands                   
+ 2022-02-12 02:16:35 , manual , 35  , 3.2 , MLv     , 11  , 214 , 0.4 , 8.28 S  , 110.69 E , 123 km ," Java, Indonesia                   "
+ 2022-02-12 00:41:08 , manual , 107 , 5.1 , mb      , 74  , 105 , 1.2 , 20.14 N , 121.49 E , 41 km  , Philippine Islands Region         
+ 2022-02-12 00:10:09 , manual , 12  , 3.3 , MLv     , 4   , 170 , 0.5 , 3.71 S  , 127.45 E , 10 km  ," Seram, Indonesia                  "
+ 2022-02-11 23:47:45 , manual , 22  , 4.8 , mb      , 12  , 205 , 1.0 , 15.04 S , 168.05 E , 10 km  , Vanuatu Islands                   
+ 2022-02-11 22:57:51 , manual , 32  , 4.5 , MLv     , 12  , 97  , 0.8 , 6.94 S  , 131.18 E , 119 km ," Tanimbar Islands Reg., Indonesia  "
+ 2022-02-11 22:24:16 , manual , 27  , 3.4 , MLv     , 13  , 205 , 0.5 , 2.39 N  , 96.09 E  , 10 km  ," Northern Sumatra, Indonesia       "
+ 2022-02-11 22:02:14 , manual , 26  , 3.0 , MLv     , 12  , 101 , 0.5 , 2.79 N  , 99.08 E  , 167 km ," Northern Sumatra, Indonesia       "
+ 2022-02-11 21:37:23 , manual , 13  , 2.9 , MLv     , 6   , 237 , 0.4 , 0.66 N  , 97.03 E  , 23 km  ," Northern Sumatra, Indonesia       "
+ 2022-02-11 19:16:51 , manual , 51  , 4.9 , mb      , 32  , 82  , 0.9 , 26.07 N , 96.42 E  , 19 km  , Myanmar                           
+ 2022-02-11 17:53:50 , manual , 6   , 4.3 , mb      , 1   , 154 , 1.1 , 23.93 N , 122.31 E , 24 km  , Taiwan Region                     
+ 2022-02-11 17:47:44 , manual , 7   , 4.3 , MLv     , 6   , 153 , 1.2 , 23.95 N , 122.30 E , 10 km  , Taiwan Region                     
+ 2022-02-11 17:18:02 , manual , 22  , 2.6 , MLv     , 7   , 64  , 0.8 , 8.92 S  , 124.07 E , 69 km  , Timor Region                      
+ 2022-02-11 16:43:12 , manual , 92  , 5.3 , mb      , 66  , 77  , 1.2 , 24.02 N , 122.33 E , 13 km  , Taiwan Region                     
+ 2022-02-11 16:19:40 , manual , 7   , 2.7 , MLv     , 4   , 154 , 1.0 , 3.31 S  , 128.92 E , 10 km  ," Seram, Indonesia                  "
+ 2022-02-11 16:17:19 , manual , 18  , 4.0 , MLv     , 6   , 75  , 1.1 , 3.33 S  , 139.39 E , 76 km  ," Irian Jaya, Indonesia             "
+ 2022-02-11 14:51:25 , manual , 20  , 2.8 , MLv     , 6   , 83  , 0.5 , 1.82 N  , 126.42 E , 11 km  , Northern Molucca Sea              
+ 2022-02-11 14:25:17 , manual , 156 , 5.1 , Mw      , 10  , 64  , 1.3 , 5.95 N  , 124.49 E , 41 km  ," Mindanao, Philippines             "
+ 2022-02-11 14:00:23 , manual , 15  , 4.3 , mb      , 7   , 142 , 1.1 , 3.53 S  , 144.19 E , 24 km  ," Near N. Coast of New Guinea, PNG. "
+ 2022-02-11 13:42:48 , manual , 19  , 4.6 , mb      , 12  , 274 , 1.0 , 4.15 S  , 143.45 E , 106 km ," New Guinea, Papua New Guinea      "
+ 2022-02-11 13:15:22 , manual , 131 , 5.2 , Mw      , 64  , 46  , 1.3 , 3.58 S  , 144.13 E , 34 km  ," Near N. Coast of New Guinea, PNG. "
+ 2022-02-11 12:51:29 , manual , 26  , 4.7 , mb      , 13  , 93  , 1.4 , 24.03 N , 122.33 E , 10 km  , Taiwan Region                     
+ 2022-02-11 12:15:40 , manual , 15  , 3.5 , MLv     , 7   , 85  , 0.6 , 2.83 S  , 129.46 E , 16 km  ," Seram, Indonesia                  "
+ 2022-02-11 12:12:35 , manual , 47  , 3.7 , MLv     , 19  , 207 , 0.4 , 8.37 S  , 108.99 E , 71 km  ," Java, Indonesia                   "
+ 2022-02-11 11:46:26 , manual , 26  , 5.1 , mb      , 18  , 71  , 1.3 , 49.66 N , 155.21 E , 93 km  , Kuril Islands                     
+ 2022-02-11 11:11:51 , manual , 29  , 4.5 , MLv     , 10  , 52  , 1.6 , 4.36 S  , 133.06 E , 20 km  ," Irian Jaya Region, Indonesia      "
+ 2022-02-11 10:58:15 , manual , 31  , 4.0 , MLv     , 9   , 221 , 1.0 , 5.07 S  , 102.84 E , 10 km  ," Southern Sumatra, Indonesia       "
+ 2022-02-11 10:35:43 , manual , 58  , 4.7 , MLv     , 26  , 57  , 1.0 , 0.20 S  , 123.89 E , 76 km  ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-11 10:07:43 , manual , 10  , 3.1 , MLv     , 6   , 111 , 0.7 , 0.39 N  , 122.02 E , 141 km ," Minahassa Peninsula, Sulawesi     "
+ 2022-02-11 08:19:16 , manual , 9   , 2.7 , MLv     , 2   , 182 , 0.3 , 2.63 S  , 121.34 E , 12 km  ," Sulawesi, Indonesia               "
+ 2022-02-11 07:14:56 , manual , 154 , 5.5 , mb      , 109 , 54  , 2.4 , 3.60 S  , 144.10 E , 28 km  ," Near N. Coast of New Guinea, PNG. "
+ 2022-02-11 06:24:15 , manual , 15  , 4.8 , mb      , 13  , 133 , 0.7 , 10.62 S , 12.99 W  , 10 km  , Ascension Island Region           
+ 2022-02-11 06:07:48 , manual , 29  , 4.2 , MLv     , 13  , 171 , 0.5 , 9.68 S  , 107.11 E , 35 km  ," South of Java, Indonesia          "
+ 2022-02-11 06:07:47 , manual , 35  , 4.0 , MLv     , 12  , 186 , 1.0 , 9.55 S  , 107.14 E , 10 km  ," South of Java, Indonesia          "
+ 2022-02-11 05:46:26 , manual , 13  , 2.5 , MLv     , 5   , 257 , 0.4 , 7.77 S  , 118.49 E , 14 km  , Flores Sea                        
+ 2022-02-11 05:42:44 , manual , 14  , 2.7 , MLv     , 6   , 230 , 0.9 , 7.81 S  , 118.55 E , 31 km  , Flores Sea                        
+ 2022-02-11 04:51:49 , manual , 23  , 2.6 , MLv     , 7   , 137 , 0.6 , 9.33 S  , 119.16 E , 37 km  ," Sumba Region, Indonesia           "
+ 2022-02-11 03:35:31 , manual , 24  , 3.1 , MLv     , 11  , 95  , 0.6 , 3.50 S  , 119.59 E , 11 km  ," Sulawesi, Indonesia               "
+ 2022-02-11 02:57:35 , manual , 22  , 3.4 , MLv     , 6   , 94  , 1.0 , 8.37 S  , 119.61 E , 13 km  ," Flores Region, Indonesia          "
+ 2022-02-11 01:25:54 , manual , 13  , 4.5 , mb      , 10  , 209 , 0.4 , 11.72 N , 144.47 E , 32 km  , South of Mariana Islands          
+ 2022-02-11 01:05:57 , manual , 13  , 4.7 , mb      , 7   , 194 , 1.7 , 55.46 N , 157.82 W , 57 km  , Alaska Peninsula                  
