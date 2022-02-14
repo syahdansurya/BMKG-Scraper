@@ -9,7 +9,7 @@ import requests
 import pandas as pd
 #=================== Parameter Input File =====================================
 web="http://202.90.198.41/index3.txt"  #web address of data provider
-out="E:/BMKG/Data/"                                 # Directory of your output file
+out="Output/"                                 # Directory of your output file
 
 #=================== Computation ==============================================
 r=requests.get(web)
